@@ -1,0 +1,3 @@
+Reccomended mitgation:
+
+Add check `msg.Sender` is the `lastBidder`.
